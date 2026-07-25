@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-nu8cut.pulaucuansite.xyz/sitemap.xml
